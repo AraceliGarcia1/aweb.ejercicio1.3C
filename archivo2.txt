@@ -1,0 +1,2 @@
+Segunda practica en git
+Una pagina web es un sitio con informacion y datos el cual lo podemos acceder a través de internet
