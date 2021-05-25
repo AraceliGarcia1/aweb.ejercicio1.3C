@@ -1,2 +1,3 @@
 Segunda practica en git
 Una pagina web es un sitio con informacion y datos el cual lo podemos acceder a través de internet
+Host es una computadora conectada a la red a través de un dominio y una direccion IP
